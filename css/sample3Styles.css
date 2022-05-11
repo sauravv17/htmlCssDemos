@@ -1,0 +1,30 @@
+ul {
+  background-color: aquamarine;
+  padding: 25px;
+  margin-bottom: 5px;
+  float: top;
+  clear: both;
+}
+p {
+  margin: 10px;
+  align-self: left;
+}
+img {
+  float: left;
+  margin: 10px;
+}
+.l1 {
+  float: left;
+  margin-right: 20px;
+}
+.l2 {
+  float: left;
+  margin-right: 20px;
+}
+.l3 {
+  float: left;
+  margin-right: 20px;
+}
+.l4 {
+  float: left;
+}
